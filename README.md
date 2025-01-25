@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to styling a DOM element after it's been removed. The bug.html file shows the incorrect approach, leading to unexpected behavior. The solution.html file illustrates the correct way to handle such scenarios.
